@@ -1,0 +1,14 @@
+.IniA{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.IniImg{
+    height: 3%;
+    width: 3%;
+    transform: rotate(90deg);
+}
+h1.Ini{
+    text-align: center;
+}
