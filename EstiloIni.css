@@ -1,14 +1,22 @@
 .IniA{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
+    text-align: center;
+    margin: 0 auto;
 }
 .IniImg{
-    height: 3%;
-    width: 3%;
-    transform: rotate(90deg);
+    height: 40px;
+    width: 40px;
 }
 h1.Ini{
     text-align: center;
+}
+.test{
+    border-bottom: 1px solid rgb(180, 180, 180);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Cambio{
+    float: right;
+    margin-top: 0;
+    margin-right: 10px;
 }
